@@ -1,0 +1,16 @@
+.box{
+    background-color: #ae1c28;
+    height: 600px;
+    width: 900px;
+    position: relative;
+}
+div > div{
+    background-color: white;
+    height: 33.3%;
+    position: relative;
+    top: 33%;
+}
+div > .blue{
+    background-color:#21468b ;
+    height: 33.3%;
+}
